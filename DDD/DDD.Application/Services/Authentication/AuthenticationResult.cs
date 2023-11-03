@@ -1,10 +1,9 @@
-﻿namespace DDD.Application.Services.Authentication
+﻿using DDD.Domain.Entities;
+
+namespace DDD.Application.Services.Authentication
 {
     public record AuthenticationResult(
-        Guid Id,
-        string FirstName,
-        string LastName,
-        string Email,
+        User User,
         string Token
     );
 }
