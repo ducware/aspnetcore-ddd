@@ -40,7 +40,7 @@ namespace DDD.Infrastructure.Authentication
                 claims: claims,
                 expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes),
                 signingCredentials: signingCredentials
-                );
+            );
 
             return new JwtSecurityTokenHandler().WriteToken(securityToken);
         }

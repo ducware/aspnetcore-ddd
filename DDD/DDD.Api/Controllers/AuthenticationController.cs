@@ -1,4 +1,5 @@
-﻿using DDD.Application.Services.Authentication;
+﻿using DDD.Api.Filter;
+using DDD.Application.Services.Authentication;
 using DDD.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,6 +7,7 @@ namespace DDD.Api.Controllers
 {
     [Route("ddd/auth")]
     [ApiController]
+    //[ErrorHandlingFilter]
     public class AuthenticationController : ControllerBase
     {
         private readonly IAuthenticationService _authenticationService;
