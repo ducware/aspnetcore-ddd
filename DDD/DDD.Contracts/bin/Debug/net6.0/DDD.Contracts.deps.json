@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDD.Contracts/1.0.0": {
+        "runtime": {
+          "DDD.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDD.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\bin\Debug\net6.0\DDD.Contracts.deps.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\bin\Debug\net6.0\DDD.Contracts.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\bin\Debug\net6.0\DDD.Contracts.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.AssemblyInfoInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.AssemblyInfo.cs
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.csproj.CoreCompileInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.sourcelink.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\refint\DDD.Contracts.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\DDD.Contracts.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Contracts\obj\Debug\net6.0\ref\DDD.Contracts.dll

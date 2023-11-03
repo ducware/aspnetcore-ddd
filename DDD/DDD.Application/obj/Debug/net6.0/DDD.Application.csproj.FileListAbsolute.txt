@@ -1,0 +1,16 @@
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\bin\Debug\net6.0\DDD.Application.deps.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\bin\Debug\net6.0\DDD.Application.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\bin\Debug\net6.0\DDD.Application.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\bin\Debug\net6.0\DDD.Domain.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\bin\Debug\net6.0\DDD.Domain.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.csproj.AssemblyReference.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.AssemblyInfoInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.AssemblyInfo.cs
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.csproj.CoreCompileInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.sourcelink.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.csproj.CopyComplete
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\refint\DDD.Application.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\DDD.Application.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Application\obj\Debug\net6.0\ref\DDD.Application.dll

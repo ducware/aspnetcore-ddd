@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOQLdZ5Zmif5/iFfmHAx08gQkK08b+f2NLcILRxg5KdC3vXln3l8gHUPnp3NBqHAtnVEy2xp3NAiZtIQ1yu+uA==",
+  "success": true,
+  "projectFilePath": "E:\\Git\\aspnetcore-ddd\\DDD\\DDD.Infrastructure\\DDD.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

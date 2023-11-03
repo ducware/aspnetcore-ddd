@@ -1,0 +1,12 @@
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.deps.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\bin\Debug\net6.0\DDD.Domain.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfoInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.AssemblyInfo.cs
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.csproj.CoreCompileInputs.cache
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.sourcelink.json
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\refint\DDD.Domain.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\DDD.Domain.pdb
+E:\Git\aspnetcore-ddd\DDD\DDD.Domain\obj\Debug\net6.0\ref\DDD.Domain.dll
