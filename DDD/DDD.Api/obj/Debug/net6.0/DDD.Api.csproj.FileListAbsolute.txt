@@ -40,3 +40,13 @@ E:\Git\aspnetcore-ddd\DDD\DDD.Api\obj\Debug\net6.0\refint\DDD.Api.dll
 E:\Git\aspnetcore-ddd\DDD\DDD.Api\obj\Debug\net6.0\DDD.Api.pdb
 E:\Git\aspnetcore-ddd\DDD\DDD.Api\obj\Debug\net6.0\DDD.Api.genruntimeconfig.cache
 E:\Git\aspnetcore-ddd\DDD\DDD.Api\obj\Debug\net6.0\ref\DDD.Api.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Git\aspnetcore-ddd\DDD\DDD.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
