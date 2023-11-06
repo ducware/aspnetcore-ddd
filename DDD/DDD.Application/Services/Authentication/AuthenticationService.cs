@@ -1,4 +1,5 @@
-﻿using DDD.Application.Common.Interfaces.Authentication;
+﻿using DDD.Application.Common.Errors;
+using DDD.Application.Common.Interfaces.Authentication;
 using DDD.Application.Common.Interfaces.Persistence;
 using DDD.Domain.Entities;
 
@@ -20,7 +21,7 @@ namespace DDD.Application.Services.Authentication
             // Validate the user doesn't exist
             if (_userRepository.GetUserEmail(email) is not null)
             {
-                throw new Exception("User with given email already exists");
+                throw new DuplicateEmailException();
             }
 
             // Create user (generate unique id) & persist to db

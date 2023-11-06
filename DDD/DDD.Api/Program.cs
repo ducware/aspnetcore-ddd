@@ -1,3 +1,4 @@
+using DDD.Application.Common.Errors;
 using DDD.Application.DI;
 using DDD.Infrastructure.DI;
 using Microsoft.AspNetCore.Diagnostics;
@@ -30,7 +31,14 @@ app.UseExceptionHandler("/error");
 app.Map("/error", (HttpContext httpContext) =>
 {
     Exception? exception = httpContext.Features.Get<IExceptionHandlerFeature>()?.Error;
-    return Results.Problem(title: exception?.Message, statusCode: 400);
+
+    var (statusCode, message) = exception switch
+    {
+        IServiceException serviceException => ((int)serviceException.StatusCode, serviceException.ErrorMessage),
+        _ => (StatusCodes.Status500InternalServerError, "An unexpected error occurred")
+    };
+
+    return Results.Problem(statusCode: statusCode, title: message);
 });
 
 app.UseHttpsRedirection();
